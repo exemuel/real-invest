@@ -15,7 +15,15 @@ class Controller extends BaseController
         return view('about');
     }
 
-    public function propertygrid(){
-        return view('propertygrid');
+    public function property_grid(){
+        return view('property-grid');
+    }
+
+    public function blog_grid(){
+        return view('blog-grid');
+    }
+
+    public function property_single(){
+        return view('property-single');
     }
 }

@@ -154,20 +154,20 @@
           </li>
 
           <li class="nav-item">
-            <a class="nav-link " href="blog-grid.html">Blog</a>
+            <a class="nav-link " href="/blog-grid">Blog</a>
           </li>
 
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages</a>
             <div class="dropdown-menu">
-              <a class="dropdown-item " href="property-single.html">Property Single</a>
-              <a class="dropdown-item " href="blog-single.html">Blog Single</a>
-              <a class="dropdown-item " href="agents-grid.html">Agents Grid</a>
-              <a class="dropdown-item " href="agent-single.html">Agent Single</a>
+              <a class="dropdown-item " href="/property-single">Property Single</a>
+              <a class="dropdown-item " href="/blog-single">Blog Single</a>
+              <a class="dropdown-item " href="/agents-grid">Agents Grid</a>
+              <a class="dropdown-item " href="/agent-single">Agent Single</a>
             </div>
           </li>
           <li class="nav-item">
-            <a class="nav-link " href="contact.html">Contact</a>
+            <a class="nav-link " href="/contact">Contact</a>
           </li>
         </ul>
       </div>
@@ -975,7 +975,7 @@
         <div class="col-sm-12 col-md-4">
           <div class="widget-a">
             <div class="w-header-a">
-              <h3 class="w-title-a text-brand">EstateAgency</h3>
+              <h3 class="w-title-a text-brand">Real Invest</h3>
             </div>
             <div class="w-body-a">
               <p class="w-text-a color-text-a">
@@ -1114,7 +1114,7 @@
           <div class="copyright-footer">
             <p class="copyright color-text-a">
               &copy; Copyright
-              <span class="color-a">EstateAgency</span> All Rights Reserved.
+              <span class="color-a">Real Invest</span> All Rights Reserved.
             </p>
           </div>
           <div class="credits">
